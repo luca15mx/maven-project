@@ -1,4 +1,6 @@
-
-/* Esto es un paquete */
+/**
+ * Esto es un paquete
+ * 
+ */
 
 package com.example;
