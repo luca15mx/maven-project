@@ -26,7 +26,7 @@
         <url>http://100.25.141.23:8081/repository/sample-rel/</url>
       </repository>
       <snapshotRepository>
-        <id>my-repo2</id>
+        <id>Snapshots</id>
         <name>your custom repo</name>
         <url>http://100.25.141.23:8081/repository/sample/</url>
       </snapshotRepository>   
