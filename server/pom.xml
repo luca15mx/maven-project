@@ -23,12 +23,12 @@
       <repository>
         <id>Deployment</id>
         <name>Internal Relseases</name>
-        <url>http://100.25.141.23:8081/repository/sample/</url>
+        <url>http://100.25.141.23:8081/repository/sample-rel/</url>
       </repository>
       <snapshotRepository>
         <id>my-repo2</id>
         <name>your custom repo</name>
-        <url>http://100.25.141.23:8081/repository/sample-rel/</url>
+        <url>http://100.25.141.23:8081/repository/sample/</url>
       </snapshotRepository>   
   </distributionManagement>
 
