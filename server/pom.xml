@@ -20,14 +20,14 @@
   </build>
 
   <distributionManagement>   
-      <repository>
+      <!-- <repository>
         <id>Deployment</id>
         <name>Internal Relseases</name>
         <url>http://100.25.141.23:8081/repository/sample-rel/</url>
-      </repository>
+      </repository> -->
       <snapshotRepository>
         <id>Snapshots</id>
-        <name>your custom repo</name>
+        <name>Snapshots repo</name>
         <url>http://100.25.141.23:8081/repository/sample/</url>
       </snapshotRepository>   
   </distributionManagement>
